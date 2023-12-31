@@ -60,7 +60,9 @@ class Result extends Type
 
     public $forward_sender_name;
 
-   /**
+   public $link_preview_options;
+
+    /**
     * 
     */
     public function getUser()
